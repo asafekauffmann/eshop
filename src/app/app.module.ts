@@ -10,7 +10,6 @@ import { StoreModule } from '@ngrx/store';
 import { reducers, metaReducers } from './reducers';
 
 
-
 @NgModule({
   declarations: [AppComponent],
   entryComponents: [],
